@@ -1,0 +1,54 @@
+import { IMG1, IMG2, IMG3, IMG4, IMG5, IMG6, IMG7 } from "./Image/Index";
+
+export const data = [
+  {
+    id: 1,
+    image: IMG1,
+    title: "E-comerce",
+    github: "https://github.com/Jdalucard/tienda",
+    demo: "https://ecomerce-demo.netlify.app",
+  },
+
+  {
+    id: 2,
+    image: IMG2,
+    title: "Api Criptomonedas",
+    github: "https://github.com/Jdalucard/coingeko",
+    demo: "https://coingekoapi.netlify.app",
+  },
+  {
+    id: 3,
+    image: IMG3,
+    title: "Landing page",
+    github: "https://github.com/Jdalucard/Ejercicio-tienda-de-disco",
+    demo: "https://jovial-bienenstitch-c772b2.netlify.app",
+  },
+  {
+    id: 4,
+    image: IMG4,
+    title: "Grafica Btc",
+    github: "https://github.com/Jdalucard/chartBtc",
+    demo: "https://charbtcg.netlify.app",
+  },
+  {
+    id: 5,
+    image: IMG5,
+    title: " Crud JS Puro",
+    github: "https://github.com/Jdalucard/Crud",
+    demo: "https://crudjspuro.netlify.app",
+  },
+  {
+    id: 6,
+    image: IMG6,
+    title: "Social Pedia",
+    github: "https://github.com/Jdalucard/SocialmediaFronted",
+    demo: "https://papaya-liger-448640.netlify.app",
+  },
+  {
+    id: 7,
+    image: IMG7,
+    title: "Filter User",
+    github: "https://github.com/Jdalucard/MentorFilterComponent",
+    demo: "https://exquisite-selkie-d9bfe7.netlify.app",
+  },
+];
