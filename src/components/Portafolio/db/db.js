@@ -1,4 +1,4 @@
-import { IMG1, IMG2, IMG3, IMG4, IMG5, IMG6, IMG7 } from "./Image/Index";
+import { IMG1, IMG2, IMG3, IMG4, IMG5, IMG6, IMG7, IMG8 } from "./Image/Index";
 
 export const data = [
   {
@@ -50,5 +50,12 @@ export const data = [
     title: "Filter User",
     github: "https://github.com/Jdalucard/MentorFilterComponent",
     demo: "https://exquisite-selkie-d9bfe7.netlify.app",
+  },
+  {
+    id: 8,
+    image: IMG8,
+    title: "Todo Add React",
+    github: "https://github.com/Jdalucard/todoReact",
+    demo: "https://willowy-donut-641d20.netlify.app",
   },
 ];
