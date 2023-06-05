@@ -72,7 +72,7 @@ export const data = [
   {
     id: 9,
     image: IMG9,
-    title: "E-comerce",
+    title: "Ip address Traker",
     github: "https://github.com/Jdalucard/IP-Address-Traker/tree/master",
     demo: "https://dazzling-gelato-c15af6.netlify.app",
   },
