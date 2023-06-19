@@ -61,8 +61,8 @@ export const data = [
   {
     id: 9,
     image: IMG9,
-    title: "Todo Add React",
-    github: "https://github.com/Jdalucard/todoReact",
-    demo: "https://willowy-donut-641d20.netlify.app",
+    title: "Menú desplegable",
+    github: "https://github.com/Jdalucard/navigation-dropdow",
+    demo: "https://classy-cannoli-1d160e.netlify.app/",
   },
 ];
