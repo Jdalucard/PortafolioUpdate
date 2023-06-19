@@ -1,14 +1,4 @@
-import {
-  IMG1,
-  IMG2,
-  IMG3,
-  IMG4,
-  IMG5,
-  IMG6,
-  IMG7,
-  IMG8,
-  IMG9,
-} from "./Image/Index";
+import { IMG1, IMG2, IMG3, IMG4, IMG5, IMG6, IMG7, IMG8, IMG9 } from "./Image/Index";
 
 export const data = [
   {
@@ -68,12 +58,11 @@ export const data = [
     github: "https://github.com/Jdalucard/todoReact",
     demo: "https://willowy-donut-641d20.netlify.app",
   },
-
   {
     id: 9,
     image: IMG9,
-    title: "Ip address Traker",
-    github: "https://github.com/Jdalucard/IP-Address-Traker/tree/master",
-    demo: "https://dazzling-gelato-c15af6.netlify.app",
+    title: "Todo Add React",
+    github: "https://github.com/Jdalucard/todoReact",
+    demo: "https://willowy-donut-641d20.netlify.app",
   },
 ];
