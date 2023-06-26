@@ -1,6 +1,6 @@
 import React from "react";
 import "./SobreMi.css";
-import ME from "../../assets/foto mia.webp";
+import ME from "../../assets/mia.webp";
 import { FaAward } from "react-icons/fa";
 import { FiUsers } from "react-icons/fi";
 import { VscFolderLibrary } from "react-icons/vsc";
