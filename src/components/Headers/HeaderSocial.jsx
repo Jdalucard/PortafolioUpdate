@@ -6,7 +6,9 @@ const HeaderSocial = () => {
   return (
     <div className="header__socials">
       <a
-        href="jose-daniel-martinez-pacheco-29b65213a"
+        href="https://linkedin.com/in/
+jose-daniel-martinez-pacheco-29b65213a
+"
         rel="noreferrer"
         target="_blank"
       >
