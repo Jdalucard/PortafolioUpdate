@@ -1,4 +1,4 @@
-import { IMG1, IMG2, IMG3, IMG4, IMG5, IMG6, IMG7, IMG8, IMG9 } from "./Image/Index";
+import { IMG1, IMG2, IMG3, IMG4, IMG5, IMG6, IMG7, IMG8, IMG9, IMG10 } from "./Image/Index";
 
 export const data = [
   {
@@ -64,5 +64,13 @@ export const data = [
     title: "Menú desplegable",
     github: "https://github.com/Jdalucard/navigation-dropdow",
     demo: "https://classy-cannoli-1d160e.netlify.app/",
+  },
+
+  {
+    id: 10,
+    image: IMG10,
+    title: "IP Address Traker",
+    github: "https://github.com/Jdalucard/IP-Address-Traker/tree/master",
+    demo: "https://dazzling-gelato-c15af6.netlify.app/",
   },
 ];
