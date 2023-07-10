@@ -50,6 +50,8 @@ const SobreMi = () => {
         </div>
       </div>
     </section>
+
+
   );
 };
 
