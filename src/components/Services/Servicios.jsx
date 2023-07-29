@@ -73,7 +73,7 @@ const Servicios = () => {
             <li>
               <BiCheck className="service__list-icon" />
               <p>
-                "Como desarrollador web, me enfoco en el front-end, responsable del diseño y funcionalidad del lado del cliente en un sitio web, y el back-end, encargado de la infraestructura del sitio y los elementos del lado del servidor. Desarrollo sitios web, portales y sistemas web personalizados, priorizando la usabilidad y experiencia del usuario en cualquier dispositivo. También diseño y programo páginas web, e-commerce y páginas autoadministrables. Puedo crear sistemas web escalables desde cero y soluciones personalizadas de e-commerce y venta directa para empresas y startups.
+                Experiencia en desarrollo web front-end y back-end. Especializado en diseño y funcionalidad del lado del cliente y la infraestructura del lado del servidor. Desarrollo de sitios web, portales y sistemas personalizados con enfoque en la usabilidad. Diseño y programación de páginas web, e-commerce y autoadministrables. Capacidad para crear sistemas escalables y soluciones de e-commerce a medida para empresas y startups.
               </p>
             </li>
 
