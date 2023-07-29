@@ -29,21 +29,7 @@ const Servicios = () => {
                 mientras interactúan con su producto digital.
               </p>
             </li>
-            {/*       <li>
-              <BiCheck className="service__list-icon" />
-              <p>
-                Se elabora un diseño de experiencias el cual no es un proceso
-                exacto y eso es lo que permite que cada solución sea
-                completamente diferente al momento de elaborar la costruccion de
-                un sitio web
-              </p>
-            </li> */}
-            {/*    <li>
-              <BiCheck className="service__list-icon" />
-              <p>
-      
-              </p>
-            </li> */}
+
           </ul>
         </article>
         {/* fin primera lista */}
@@ -53,45 +39,7 @@ const Servicios = () => {
             <h3>Análisis del requerimiento</h3>
           </div>
           <ul className="service__list">
-            {/*         <li>
-              <BiCheck className="service__list-icon" />
-              <p>
-                Desarrollo web front-end responsable del diseño y la
-                funcionalidad de los elementos del lado del cliente en un sitio
-                web, lo que incluye todo lo que el usuario ve y con lo que
-                interactúa.
-              </p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon" />
-              <p>
-                Desarrollo web back-end responsable de la infraestructura del
-                sitio web y los elementos del lado del servidor, como la base de
-                datos, la lógica de negocios y la seguridad
-              </p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon" />
-              <p>
-                Desarrollador web full stack: abarca las habilidades de los
-                desarrolladores front-end y backend, además de dominar varios
-                lenguajes de programación.
-              </p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon" />
-              <p>
-                Desarrollo sitios web, portales y sistemas web a medida. Páginas
-                web de alto impacto, priorizando la usabilidad y experiencia del
-                usuario. Adaptables a cualquier dispositivo.
-              </p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon" />
-              <p>
-   
-              </p>
-            </li> */}
+
             <li>
               <BiCheck className="service__list-icon" />
               <p>
@@ -121,43 +69,14 @@ const Servicios = () => {
             <h3> Desarrollo web </h3>
           </div>
           <ul className="service__list">
+
             <li>
               <BiCheck className="service__list-icon" />
               <p>
-                Desarrollo web front-end responsable del diseño y la
-                funcionalidad de los elementos del lado del cliente en un sitio
-                web, lo que incluye todo lo que el usuario ve y con lo que
-                interactúa.
+                "Como desarrollador web, me enfoco en el front-end, responsable del diseño y funcionalidad del lado del cliente en un sitio web, y el back-end, encargado de la infraestructura del sitio y los elementos del lado del servidor. Desarrollo sitios web, portales y sistemas web personalizados, priorizando la usabilidad y experiencia del usuario en cualquier dispositivo. También diseño y programo páginas web, e-commerce y páginas autoadministrables. Puedo crear sistemas web escalables desde cero y soluciones personalizadas de e-commerce y venta directa para empresas y startups.
               </p>
             </li>
-            <li>
-              <BiCheck className="service__list-icon" />
-              <p>
-                Desarrollo web back-end responsable de la infraestructura del
-                sitio web y los elementos del lado del servidor, como la base de
-                datos, la lógica de negocios y la seguridad.
-              </p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon" />
-              <p>
-                En cuanto a mis habilidades, desarrollo sitios web, portales y
-                sistemas web a medida que priorizan la usabilidad y la
-                experiencia del usuario, asegurándome de que sean adaptables a
-                cualquier dispositivo. También diseño y programo páginas web,
-                e-commerce y páginas autoadministrables.
-              </p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon" />
-              <p>
-                Puedo ayudarte a hacer realidad tus ideas, desarrollando
-                sistemas web totalmente escalables para empresas y startups
-                desde cero y a medida. Además, si tu empresa necesita soluciones
-                personalizadas de e-commerce y venta directa, puedo ayudarte a
-                diseñarlas y desarrollarlas .
-              </p>
-            </li>
+
           </ul>
         </article>
 
