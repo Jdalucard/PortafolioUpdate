@@ -56,7 +56,6 @@ const Experiencia = () => {
             </article>
           </div>
         </div>
-
         <div className="experience__backend">
           <h3> Desarrollo en Backend</h3>
           <small className="text-light">Experiencia Junior</small>
