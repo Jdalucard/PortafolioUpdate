@@ -47,15 +47,13 @@ const Experiencia = () => {
               <div>
                 <h4> Next jS </h4>
               </div>
-              
             </article>
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
               <div>
-                <h4>  Material Ui </h4>
+                <h4> Material Ui </h4>
               </div>
             </article>
-
           </div>
         </div>
 
