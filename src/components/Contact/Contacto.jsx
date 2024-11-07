@@ -37,7 +37,6 @@ const Contacto = () => {
           <article className="contact__option">
             <RiMessengerLine className="contact__option-icon" />
             <h4>Facebook</h4>
-
             <a
               href="https://www.facebook.com/josedaniel.martinezpacheco/"
               target="_blanck"
