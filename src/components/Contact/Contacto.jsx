@@ -31,14 +31,13 @@ const Contacto = () => {
   };
   return (
     <section id="Contacto">
-      {/*       <h5>Contacto</h5> */}
       <h2>Contactame</h2>
       <div className="container contact__container">
         <div className="contact_options">
           <article className="contact__option">
             <RiMessengerLine className="contact__option-icon" />
             <h4>Facebook</h4>
-            {/* <h5>mensaje Faceboock</h5> */}
+
             <a
               href="https://www.facebook.com/josedaniel.martinezpacheco/"
               target="_blanck"
@@ -58,8 +57,8 @@ const Contacto = () => {
 
           <article className="contact__option">
             <BsWhatsapp className="contact__option-icon" />
-            {/*      <h4>whatsapp</h4> */}
-            <h5>+573023315479</h5>
+
+            <h5>+573027011214</h5>
             <a
               href="https://api.whatsapp.com/send?phone=573023315479&text=Hola! puedes contactarme por este Medio"
               target="_blanck"
@@ -69,7 +68,6 @@ const Contacto = () => {
           </article>
         </div>
 
-        {/*fin de opciones de contacto*/}
         <form ref={form} onSubmit={sendEmail}>
           <input type="text" name="name" placeholder="Nombre completo" />
           <input type="email" name="email" placeholder="Tu correo" />
