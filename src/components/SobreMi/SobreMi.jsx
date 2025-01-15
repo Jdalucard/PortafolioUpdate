@@ -20,7 +20,7 @@ const SobreMi = () => {
             <article className="about__card">
               <FaAward className="about__icon" />
               <h5>Experiencia</h5>
-              <small>1 año en desarrollo como Full Stack</small>
+              <small>2 años en desarrollo como Full Stack</small>
             </article>
             <article className="about__card">
               <FiUsers className="about__icon" />
