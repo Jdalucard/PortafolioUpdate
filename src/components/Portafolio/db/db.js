@@ -1,4 +1,4 @@
-import { IMG1, IMG2, IMG3, IMG4, IMG5, IMG6, IMG7, IMG8, IMG9, IMG10 } from "./Image/Index";
+import { IMG1, IMG2, IMG3, IMG4, IMG5, IMG6, IMG7, IMG8, IMG9, IMG10,IMG11, IMG12 } from "./Image/Index";
 
 export const data = [
   {
@@ -73,4 +73,19 @@ export const data = [
     github: "https://github.com/Jdalucard/IP-Address-Traker/tree/master",
     demo: "https://dazzling-gelato-c15af6.netlify.app/",
   },
+
+  {
+    id: 11,
+    image: IMG11,
+    title: "Xveritas Page",
+    demo: "https://xveritas.co/",
+  },
+
+  {
+    id: 12,
+    image: IMG12,
+    title: "Pitch Page",
+    demo: "https://pitchdb.com/",
+  },
 ];
+

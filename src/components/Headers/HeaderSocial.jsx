@@ -15,7 +15,6 @@ jose-daniel-martinez-pacheco-29b65213a
         <BsLinkedin />
       </a>
       <a href="https://github.com/Jdalucard" rel="noreferrer" target="_blank">
-        {" "}
         <FaGithub />{" "}
       </a>
     </div>

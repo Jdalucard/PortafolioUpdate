@@ -20,7 +20,7 @@ header {
   margin-left: 1rem;
 }
 
-/*sociales*/
+/*social*/
 
 .header__socials {
   display: flex;
@@ -38,9 +38,9 @@ header {
   height: 2rem;
   background: var(--color-primary);
 }
-/*yo*/
+/*me*/
 .me {
-  background: linear-gradient(var(--color-primary),transparent );
+  background: linear-gradient(var(--color-primary), transparent);
   width: 20rem;
   height: 23rem;
   position: absolute;
@@ -61,14 +61,12 @@ header {
   font-size: 0.9rem;
 }
 
-/*media queries (tamaño mediano)*/
 @media screen and (max-width: 1024px) {
   header {
     height: 68vh;
   }
 }
 
-/*media queries (tamaño pequeño)*/
 @media screen and (max-width: 600px) {
   header {
     height: 100vh;

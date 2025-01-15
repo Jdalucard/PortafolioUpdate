@@ -2,7 +2,7 @@ import React from "react";
 import "./Portafolio.css";
 import { data } from "./db/db.js";
 
-//Imagenes en produccion
+
 
 const Portafolio = () => {
   return (

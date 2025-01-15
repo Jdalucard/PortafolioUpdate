@@ -8,4 +8,19 @@ import IMG7 from "../../../../assets/filterstate.jpeg";
 import IMG8 from "../../../../assets/todoapp.jpeg";
 import IMG9 from "../../../../assets/Macbookpro.jpeg";
 import IMG10 from "../../../../assets/ip.jpeg";
-export { IMG1, IMG2, IMG3, IMG4, IMG5, IMG6, IMG7, IMG8, IMG9, IMG10 };
+import IMG11 from "../../../../assets/xveritasFront.png";
+import IMG12 from "../../../../assets/PitchDb.png";
+export {
+  IMG1,
+  IMG2,
+  IMG3,
+  IMG4,
+  IMG5,
+  IMG6,
+  IMG7,
+  IMG8,
+  IMG9,
+  IMG10,
+  IMG11,
+  IMG12,
+};

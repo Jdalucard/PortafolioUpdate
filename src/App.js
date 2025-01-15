@@ -5,7 +5,7 @@ import SobreMi from "./components/SobreMi/SobreMi";
 import Experiencia from "./components/Experiencia/Experiencia";
 import Servicios from "./components/Services/Servicios";
 import Portafolio from "./components/Portafolio/Portafolio";
-/* import Testimonio from "./components/Testimonio/Testimonio.jsx"; */
+
 import Contacto from "./components/Contact/Contacto";
 import Footer from "./components/Footer/Footer";
 
@@ -18,7 +18,6 @@ function App() {
       <Experiencia />
       <Servicios />
       <Portafolio />
-      {/*     <Testimonio/> */}
       <Contacto />
       <Footer />
     </>

@@ -49,7 +49,7 @@
   font-size: 0.9rem;
 }
 
-/*media queries (tamaño mediano)*/
+
 @media screen and (max-width: 1024px) {
   .services__container {
     grid-template-columns: 1fr 1fr;
@@ -60,7 +60,6 @@
   }
 }
 
-/*media queries (tamaño pequeño)*/
 @media screen and (max-width: 600px) {
   .services__container {
     grid-template-columns: 1fr;
