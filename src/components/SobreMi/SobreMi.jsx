@@ -45,7 +45,7 @@ const SobreMi = () => {
           </p>
 
           <a href="#Contacto" className="btn btn-primary sobre">
-            Contactame
+          Contáctame 
           </a>
         </div>
       </div>
