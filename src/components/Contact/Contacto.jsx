@@ -59,7 +59,7 @@ const Contacto = () => {
 
             <h5>+573027011214</h5>
             <a
-              href="https://api.whatsapp.com/send?phone=573023315479&text=Hola! puedes contactarme por este Medio"
+              href="https://api.whatsapp.com/send?phone=573027011214&text=Hola! puedes contactarme por este Medio"
               target="_blanck"
             >
               Enviar Mensaje
