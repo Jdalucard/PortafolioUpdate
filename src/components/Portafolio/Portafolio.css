@@ -40,7 +40,7 @@
   }
 }
 
-/*media queries (tamaño pequeño)*/
+
 @media screen and (max-width: 600px) {
   .portafolio__container {
     grid-template-columns: 1fr;
